@@ -7,7 +7,7 @@
 ![TUM](resources/images/tum_logo.png)
 ![Stanford](resources/images/stanford_doerr_logo.png)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-brightgreen.svg)](https://python.org)
 [![GPU](https://img.shields.io/badge/GPU-Enabled-green.svg)](https://developer.nvidia.com/cuda-zone)
 [![Nature Energy](https://img.shields.io/badge/Published-Nature%20Energy-red.svg)](https://nature.com/articles)
