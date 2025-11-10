@@ -282,7 +282,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🚀 Ready to Transform Energy Management?
 
-**Join the global movement toward transparent, standardized HEMS benchmarking!**
+**Join the global movement toward transparent, standardized Smart HEMS benchmarking!**
 
 [![Get Started](https://img.shields.io/badge/Get%20Started-Now-brightgreen.svg?style=for-the-badge)](#quick-start-guide)
 [![View Demo](https://img.shields.io/badge/View%20Demo-Live-blue.svg?style=for-the-badge)](https://demo.hemsbenchmark.org)
