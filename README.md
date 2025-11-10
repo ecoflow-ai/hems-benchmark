@@ -1,4 +1,4 @@
-# 🏠⚡ HEMS Benchmarking Platform
+# 🏠⚡ Smart HEMS Benchmarking Platform
 ## Accelerating Transparency in Home & Community Energy Management
 
 <div align="center">
@@ -288,7 +288,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![View Demo](https://img.shields.io/badge/View%20Demo-Live-blue.svg?style=for-the-badge)](https://demo.hemsbenchmark.org)
 [![Join Community](https://img.shields.io/badge/Join%20Community-Discord-purple.svg?style=for-the-badge)](https://discord.gg/hemsbenchmark)
 
-**🌐 Explore, Contribute, and Innovate with HEMS Benchmarking!** <br>
+**🌐 Explore, Contribute, and Innovate with Smart HEMS Benchmarking!** <br>
 Email: ricky.li@ecoflow.com; xiaoke.yang@ecoflow.com; jawen.zhang@ecoflow.com; xianyuan.wang@ecoflow.com
 
 </div>
